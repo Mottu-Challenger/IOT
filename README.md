@@ -219,3 +219,10 @@ function doPost(e) {
 | 2025-05-25 15:30:12 | 0AF31B7C | cadastrar | sucesso |
 | 2025-05-25 15:35:44 | 0AF31B7B | remover   | sucesso |
 
+---
+
+## 👨‍💻 Autores
+
+* **RM555213** – Luiz Eduardo da Silva Pinto
+* **RM556460** – Eduardo Augusto Pelegrino Einsfeldt
+* **RM557183** – Murillo Ari Ferreira Sant'Anna
