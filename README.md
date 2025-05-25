@@ -219,7 +219,3 @@ function doPost(e) {
 | 2025-05-25 15:30:12 | 0AF31B7C | cadastrar | sucesso |
 | 2025-05-25 15:35:44 | 0AF31B7B | remover   | sucesso |
 
----
-# Video
-
-* Link *: 
